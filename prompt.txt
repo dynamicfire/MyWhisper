@@ -1,0 +1,12 @@
+Daily dictation input. Output in original language: use proper punctuation; keep English terms as-is (preserve case); don't translate product names/abbreviations.
+
+Languages: Python, JavaScript, TypeScript, Go, Rust, Swift, Kotlin, Java, C++, Ruby, PHP, Scala
+Frontend: React, Vue, Angular, Next.js, Nuxt, Svelte, Flutter, SwiftUI, Tailwind, Bootstrap
+Backend: Django, FastAPI, Flask, Express, NestJS, Spring Boot, Rails, Laravel, Gin
+Databases: MySQL, PostgreSQL, MongoDB, Redis, SQLite, Elasticsearch, DynamoDB, Cassandra
+Cloud: AWS, GCP, Azure, Vercel, Netlify, Cloudflare, DigitalOcean, Heroku
+DevOps: Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions, GitLab CI, ArgoCD
+AI/ML: OpenAI, GPT, Claude, LLM, RAG, Embedding, PyTorch, TensorFlow, Hugging Face, LangChain
+Tools: Git, npm, yarn, pnpm, pip, Homebrew, VS Code, Vim, Neovim, Xcode, IntelliJ
+Formats: JSON, YAML, XML, Markdown, CSV, Parquet, Protobuf, GraphQL, REST API
+Acronyms: API, SDK, CLI, UI, UX, CI/CD, ORM, JWT, OAuth, SSO, CRUD, MVC, SaaS, PaaS
